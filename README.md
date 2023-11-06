@@ -1,13 +1,10 @@
 # Data Science Academy
 # Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
-![PYTHON](https://github.com/flapaixao/dsa_projects/assets/144342171/b22c4113-4fa9-4e0c-813d-4120bb583816)
-
 ## About
-Este é um curso para iniciantes, para quem deseja começar do mais absoluto zero. O curso está dividido em 3 partes:
-- Nível Introdutório
-- Nível Básico
-- Nível Intermediário
+Este é um curso para iniciantes, para quem deseja começar do mais absoluto zero. 
+
+![PYTHON](https://github.com/flapaixao/dsa_projects/assets/144342171/b22c4113-4fa9-4e0c-813d-4120bb583816)
 
 ## Ementa
 
@@ -28,7 +25,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 - Módulo 12 - Análise de Dados com Python e Linguagem SQL
 - Módulo 13 - Projeto 2 e Avaliação 2
 
-  ### Linguagem Python Nível Intermediário 
+### Linguagem Python Nível Intermediário 
 - Módulo 14 - Análise Estatística com Statsmodels
 - Módulo 15 - Machine Learning com Scikit-Learn
 - Módulo 16 - Análise de Séries Temporais em Python
