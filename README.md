@@ -8,7 +8,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 
 ## Ementa
 
-### Linguagem Python Nível Introdutório
+### Linguagem Python Nível Introdutório | Completed ✔️ | [Acessar os Projetos](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)/1%20-%20Linguagem%20Python%20N%C3%ADvel%20Introdut%C3%B3rio)
 - Módulo 01 - Introdução
 - Módulo 02 - Primeiros Passos com a Lingugem Python - Visão Geral, Instalação e ChatGPT
 - Módulo 03 - Introdução à Lógica de Programação
@@ -17,7 +17,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 - Módulo 06 - Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 - Módulo 07 - Projeto 1 e Avaliação 1
 
-### Linguagem Python Nível Básico 
+### Linguagem Python Nível Básico | On going ⌛ | [Acessar os Projetos]()
 - Módulo 08 - Introdução à Programação Orientada a Objetos
 - Módulo 09 - Matemática e Manipulação de Matrizes com NumPy
 - Módulo 10 - Manipulação de Dados com Pandas
@@ -25,7 +25,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 - Módulo 12 - Análise de Dados com Python e Linguagem SQL
 - Módulo 13 - Projeto 2 e Avaliação 2
 
-### Linguagem Python Nível Intermediário 
+### Linguagem Python Nível Intermediário | Not Started ⌛ | [Acessar os Projetos]()
 - Módulo 14 - Análise Estatística com Statsmodels
 - Módulo 15 - Machine Learning com Scikit-Learn
 - Módulo 16 - Análise de Séries Temporais em Python
