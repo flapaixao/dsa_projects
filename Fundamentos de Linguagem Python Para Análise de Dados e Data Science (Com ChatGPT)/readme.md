@@ -17,7 +17,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 - Módulo 06 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 - Módulo 07 - Projeto 1 e Avaliação 1
 
-### Linguagem Python Nível Básico | On going ⌛ | [Acessar os Projetos](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)/2%20-%20Linguagem%20Python%20N%C3%ADvel%20B%C3%A1sico)
+### Linguagem Python Nível Básico | Completed ✔️ | [Acessar os Projetos](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)/2%20-%20Linguagem%20Python%20N%C3%ADvel%20B%C3%A1sico)
 - Módulo 08 - Introdução à Programação Orientada a Objetos
 - Módulo 09 - Matemática e Manipulação de Matrizes com NumPy
 - Módulo 10 - Manipulação de Dados com Pandas
@@ -25,7 +25,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 - Módulo 12 - Análise de Dados com Python e Linguagem SQL
 - Módulo 13 - Projeto 2 e Avaliação 2
 
-### Linguagem Python Nível Intermediário | Not Started ⌛ | [Acessar os Projetos](https://github.com/flapaixao/dsa_projects/tree/main/Fundamentos%20de%20Linguagem%20Python%20Para%20An%C3%A1lise%20de%20Dados%20e%20Data%20Science%20(Com%20ChatGPT)/3%20-%20Linguagem%20Python%20N%C3%ADvel%20Intermedi%C3%A1rio)
+### Linguagem Python Nível Intermediário | Completed ✔️
 - Módulo 14 - Análise Estatística com Statsmodels
 - Módulo 15 - Machine Learning com Scikit-Learn
 - Módulo 16 - Análise de Séries Temporais em Python
